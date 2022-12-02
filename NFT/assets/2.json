@@ -1,0 +1,20 @@
+{
+    "name": "Ratchet",
+    "symbol": "",
+    "description": "Autobot’s medical officer, responsible for fixing Bumblebee’s severed legs and Optimus’ injuries in the film. One of the few Autobots survived from the Mission City Battle, Egypt Giza Battle and Chicago invasion. Hunted down and killed by humans in Age of Extinction.",
+    "image": "2.jpg",
+    "attributes": [
+        {
+            "trait_type": "line",
+            "value": "Autobots"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    }
+}

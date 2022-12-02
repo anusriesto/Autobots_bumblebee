@@ -1,0 +1,20 @@
+{
+    "name": "Jetfire",
+    "symbol": "",
+    "description": "Autobot’s field commander, they’re three female Autobots driven by a single consciousness that transform into motorcycles. Despite her smaller size compared with others, Arcee compensates with speed and aggressive maneuvers, together with the ability to control three bodies at once, this makes her one of the most dangerous Autobots around. Arcee were shown to be killed at the Egypt Giza battle in ROTF film and did not appear in DOTM.",
+    "image": "3.jpg",
+    "attributes": [
+        {
+            "trait_type": "line",
+            "value": "Autobots"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    }
+}

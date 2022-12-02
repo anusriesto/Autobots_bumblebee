@@ -1,0 +1,20 @@
+{
+    "name": "BumbleBee",
+    "symbol": "",
+    "description": "One of Optimus Prime’s most trusted and brave lieutenants. Willing to sacrifice his life to protect others and stop the Decepticons. Bumblebee communicates with radio because of his damaged vocal processor during the war in Cybertron. He is very close to Sam Witwicky and regards him as a friend.",
+    "image": "1.jpg",
+    "attributes": [
+        {
+            "trait_type": "line",
+            "value": "Autobots"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    }
+}

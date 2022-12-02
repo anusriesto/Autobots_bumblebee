@@ -1,0 +1,20 @@
+{
+    "name": "Ironhide",
+    "symbol": "",
+    "description": "Autobot’s toughest weapons specialist and Optimus Prime’s old friend. Ironhide replaces Jazz as Second-In-Command in the ROTF and DOTM films. He is mercilessly killed by Sentinel Prime in Dark of the Moon when Sentinel reveals that he made a deal with Megatron and betrays the Autobots.",
+    "image": "4.jpg",
+    "attributes": [
+        {
+            "trait_type": "line",
+            "value": "Autobots"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "4.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    }
+}
